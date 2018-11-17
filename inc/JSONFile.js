@@ -1,9 +1,7 @@
 "use strict";
 
 class JSONFile {
-	constructor() {
-			
-	}
+	constructor() {}
 	
 	importFrom(link, onload) {
 		this.link = link;
